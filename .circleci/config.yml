@@ -89,7 +89,7 @@ workflows:
   version: 2
   tests:
     jobs:
-      # Supported Go versions are synced with github.com/prometheus/client_golang.
+      # Supported Go versions are synced with github.com/ParspooyeshFanavar/goproxy.
       - test:
           name: go-<< matrix.go_version >>
           matrix:
