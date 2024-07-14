@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/prometheus/common/model"
+	"github.com/ParspooyeshFanavar/prometheus-client-common/model"
 )
 
 var errNaNOrInf = errors.New("value is NaN or Inf")

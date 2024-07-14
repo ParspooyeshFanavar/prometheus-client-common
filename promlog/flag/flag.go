@@ -18,7 +18,7 @@ import (
 
 	kingpin "github.com/alecthomas/kingpin/v2"
 
-	"github.com/prometheus/common/promlog"
+	"github.com/ParspooyeshFanavar/prometheus-client-common/promlog"
 )
 
 // LevelFlagName is the canonical flag name to configure the allowed log level

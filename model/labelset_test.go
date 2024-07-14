@@ -159,7 +159,7 @@ func TestLabelSet_String(t *testing.T) {
 // ---------------------------------------------------------------------------------------------------------
 // goos: linux
 // goarch: amd64
-// pkg: github.com/prometheus/common/model
+// pkg: github.com/ParspooyeshFanavar/prometheus-client-common/model
 // cpu: 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
 // BenchmarkLabelSetStringMethod-8                               732376              1532 ns/op
 

@@ -16,7 +16,7 @@ package sigv4
 import (
 	"fmt"
 
-	"github.com/prometheus/common/config"
+	"github.com/ParspooyeshFanavar/prometheus-client-common/config"
 )
 
 // SigV4Config is the configuration for signing remote write requests with

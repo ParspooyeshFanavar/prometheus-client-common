@@ -25,7 +25,7 @@ import (
 
 	dto "github.com/prometheus/client_model/go"
 
-	"github.com/prometheus/common/model"
+	"github.com/ParspooyeshFanavar/prometheus-client-common/model"
 )
 
 func TestCreateOpenMetrics(t *testing.T) {

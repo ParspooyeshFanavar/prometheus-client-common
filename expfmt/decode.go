@@ -24,7 +24,7 @@ import (
 	dto "github.com/prometheus/client_model/go"
 	"google.golang.org/protobuf/encoding/protodelim"
 
-	"github.com/prometheus/common/model"
+	"github.com/ParspooyeshFanavar/prometheus-client-common/model"
 )
 
 // Decoder types decode an input stream into metric families.

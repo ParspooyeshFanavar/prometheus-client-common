@@ -16,7 +16,7 @@ package expfmt
 import (
 	"testing"
 
-	"github.com/prometheus/common/model"
+	"github.com/ParspooyeshFanavar/prometheus-client-common/model"
 )
 
 // Test Format to Escapting Scheme conversion

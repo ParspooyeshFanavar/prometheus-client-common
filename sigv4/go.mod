@@ -1,12 +1,12 @@
-module github.com/prometheus/common/sigv4
+module github.com/ParspooyeshFanavar/prometheus-client-common/sigv4
 
 go 1.20
 
-replace github.com/prometheus/common => ../
+replace github.com/ParspooyeshFanavar/prometheus-client-common => ../
 
 require (
 	github.com/aws/aws-sdk-go v1.54.7
-	github.com/prometheus/common v0.53.0
+	github.com/ParspooyeshFanavar/prometheus-client-common v0.53.0
 	github.com/stretchr/testify v1.9.0
 	gopkg.in/yaml.v2 v2.4.0
 )

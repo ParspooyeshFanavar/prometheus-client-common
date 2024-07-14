@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/prometheus/common/model"
+	"github.com/ParspooyeshFanavar/prometheus-client-common/model"
 )
 
 // Format specifies the HTTP content type of the different wire protocols.
